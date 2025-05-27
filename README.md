@@ -17,5 +17,5 @@ Estilo visual inspirado no jogo Super Mario Bros.</h4>
 Acesse o projeto aqui:
 <br>
 https://renansiebert7.github.io/supermario-project/
-
+<br>
 <img src="https://github.com/renansiebert7/supermario-project/blob/main/img/MARIO%20BROSS.png?raw=true"/>
